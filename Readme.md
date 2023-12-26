@@ -10,3 +10,7 @@ always stay safe don't get scammed .
 ### Goverment
 
 - Official CIA -   http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion
+
+### Crypto
+
+- BitMixer (largest bitcoin mixer) - http://bitco747gxoxddz3rrwo7tkyeo5c5mawyhxwemdrl5nlmr4f5ie3pbid.onion/
